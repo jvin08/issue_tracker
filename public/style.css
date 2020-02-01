@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 10px;
+  text-align: center;
+  background-image: url("https://cdn.glitch.com/6797239c-629e-4cba-9f7e-356dc4a800d2%2Frust002.png?v=1580430024134");
+  background-attachment: fixed;
+}
+
+.issue {
+  margin: 20px;
+  padding: 25px;
+  width: 60%;
+  border-radius: 25px;
+  background-image: url("https://cdn.glitch.com/6797239c-629e-4cba-9f7e-356dc4a800d2%2Fpaper.jpg?v=1580429974739")
+}
+
+.closed {
+  color: black;
+  opacity: .7;
+}
+
+.id {
+  font-size: 10.5px;
+}
+
+.id1 {
+  font-size: 12.5px;
+}
+
+input {
+  width: 200px;
+}
