@@ -1,4 +1,4 @@
-**FreeCodeCamp**- Information Security and Quality Assurance
+Information Security and Quality Assurance
 ------
 
 Project Issue Tracker
